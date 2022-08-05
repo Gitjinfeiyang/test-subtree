@@ -16,6 +16,7 @@ const hasGit = (() => {
 const now = Date.now();
 const branchName = `script/${now}`;
 
+console.log('hasGit',hasGit)
 const commands = [
     ...(hasGit
         ? []
