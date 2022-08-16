@@ -1,3 +1,3 @@
 # Subtree
 
-from sub 2
+from main
